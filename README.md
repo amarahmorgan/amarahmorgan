@@ -12,7 +12,7 @@ I’m a motivated and detail-oriented **Quality Engineer in training**, focused 
 
 I’m currently building strong foundations in programming and software testing while working toward becoming a confident Automation Engineer.  
 
-I believe quality is not just about finding bugs — it’s about preventing them, improving systems, and protecting users.
+I believe quality is not just about finding bugs , it’s about preventing them, improving systems, and protecting users.
 
 ---
 
