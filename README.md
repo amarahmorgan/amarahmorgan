@@ -54,16 +54,6 @@ I believe quality is not just about finding bugs — it’s about preventing the
 
 ---
 
-## 📂 What You’ll Find on My GitHub  
-
-- Programming fundamentals projects  
-- TypeScript practice programs  
-- SQL query examples  
-- Playwright automation scripts  
-- QA theory notes & learning documentation  
-
----
-
 ## 💬 
 
 Why did the tester bring a ladder to work?  
