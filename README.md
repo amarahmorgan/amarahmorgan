@@ -68,4 +68,6 @@ I’m always open to:
 - Learning opportunities  
 - QA collaboration  
 - Tech discussions  
-- Growth advice  
+- Growth advice
+
+# don't forget to git commit -m!!!
