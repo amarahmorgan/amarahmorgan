@@ -36,7 +36,7 @@ I believe quality is not just about finding bugs , it’s about preventing them,
 
 ## 🔍 Areas of Focus  
 
-- Automation testing with Playwright  
+- Automation testing with Playwright & Typescript
 - API testing & idempotency concepts  
 - SQL queries & database validation  
 - Writing clean, maintainable test scripts  
@@ -45,7 +45,7 @@ I believe quality is not just about finding bugs , it’s about preventing them,
 
 ---
 
-## 📈 2026 Goals  
+## 📈 2026 Goals
 
 ✔ Build a strong automation portfolio  
 ✔ Contribute to real-world QA projects  
